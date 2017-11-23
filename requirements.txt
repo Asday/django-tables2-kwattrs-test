@@ -1,5 +1,5 @@
 Django==1.11.7
-git+git://github.com/jieter/django-tables2.git@6ef08f99861e7f0c4e652229bc09b4b55c28a0a1#egg=django-tables2
+git+git://github.com/jieter/django-tables2.git@cdfdbc213a028e9d11fa779b04dbeeadf311688f#egg=django-tables2
 pkg-resources==0.0.0
 pytz==2017.3
 attrs==17.3.0
